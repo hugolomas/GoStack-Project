@@ -1,0 +1,1 @@
+<h1>GoStack start 🚀</h1>
